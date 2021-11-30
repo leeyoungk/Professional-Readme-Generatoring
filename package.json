@@ -1,0 +1,25 @@
+{
+  "name": "Professional-Readme-Generatoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeyoungk/Professional-Readme-Generatoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeyoungk/Professional-Readme-Generatoring/issues"
+  },
+  "homepage": "https://github.com/leeyoungk/Professional-Readme-Generatoring#readme"
+}
