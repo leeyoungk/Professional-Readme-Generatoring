@@ -1,0 +1,36 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: brown;
+    height: 120px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+    font-weight: 350;
+}
+section {
+    width: 60%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+h2, h3 {
+    color:black;
+    font-weight: 400;
+    margin: 0 10px;
+    padding: 5px 0;
+}
+.card-header {
+    background-color: cyan;
+    padding: 10px;
+
+}

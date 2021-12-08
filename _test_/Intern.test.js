@@ -1,6 +1,5 @@
 const Intern = require( '../lib/Intern' );
 
-const Intern = require( '../lib/Intern' );
 
 describe( 'Intern class', () => {
 	describe( 'Constructor', () => {
