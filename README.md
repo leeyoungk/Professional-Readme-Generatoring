@@ -27,7 +27,7 @@ Inquirer
 Jest
 ## Walkthrough Video
 
-https://www.awesomescreenshot.com/video/6339850
+https://watch.screencastify.com/v/gwwTL9D1GyvOUGX3sn0d
 ![Profile Generating](https://user-images.githubusercontent.com/82126894/145168374-9d944e55-d23d-4bd2-9a25-2c03cb9ff8c4.png)
 ## Contact Information 
 email me at : khanhtruong_1992@yahoo.com 
